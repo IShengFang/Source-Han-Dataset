@@ -8,8 +8,8 @@ tldr:This is a numpy array dataset with Source Han Sans and Serif for Python.
 - The first list contain unicode easten asian ideograph (aka Hanzi, Kanji, Hanja, Chinese characters, whatever you want to say), and the second list contain 2D numpy array of each easten asian ideographs.
 - All numpy array are aready normalized.
 - This dataset have below size dataset.
-    - $512\times512$
+    - 512
         - only have Korean version
-    - $256\times256$
-    - $128\times128$
-    - $64\times64$
+    - 256
+    - 128
+    - 64
